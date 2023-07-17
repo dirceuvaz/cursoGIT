@@ -1,4 +1,6 @@
 # Curso de GIT
 
-#### Check repositório
+#### Verificando repositório
 ```git status```
+#### Iniciado o repositório
+```git init```
