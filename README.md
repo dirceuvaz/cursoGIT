@@ -1,4 +1,4 @@
-# Curso de GIT
+# Curso de GIT - Comandos
 
 #### Verificando repositório
 ```git status```
