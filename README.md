@@ -16,3 +16,5 @@
 
 #### Configurando user do usuário do git
 ```git config --global name.user dirceuvaz.dev```
+#### Fazendo upload para uma branch master(Ramaficação do projeto)
+ ```git push --set-upstream repositório master```
