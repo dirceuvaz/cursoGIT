@@ -10,3 +10,9 @@
 ```git commit -m "Mensagem informativa"```
 #### Enviando
 ```git push```
+
+#### Configurando email do usuário do git
+```git config --global email.user email@gmail.com```
+
+#### Configurando user do usuário do git
+```git config --global name.user dirceuvaz.dev```
